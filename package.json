@@ -1,0 +1,15 @@
+{
+  "name": "vue-ssr",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "type": "module",
+  "scripts": {
+    "start": "node example.js",
+    "server": "node server.js"
+  },
+  "dependencies": {
+    "exrpess": "^0.0.1-security",
+    "vue": "^3.3.4"
+  }
+}
